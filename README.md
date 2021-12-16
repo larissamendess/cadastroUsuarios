@@ -2,6 +2,7 @@
 
 
 <p align="justify"> :white_check_mark: O sistema foi criado utilizando Javascript, Bootstrap para estilização, e firebase como banco de dados. <br /> 
+  Para iniciar o projeto, basta abrir o arquivo index no navegador.
 </p>
 
 ![PagLogin](https://user-images.githubusercontent.com/84946190/146464681-e6306d39-1cbc-4480-9f64-bff8baab45aa.png)
